@@ -1,0 +1,69 @@
+{
+    "name": "Call-Em-All",
+    "description": "Call-Em-All's voice broadcasting and mass texting service is the best way to send important alerts, notifications, and reminders to all of your contacts instantly.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/555-call-em-all.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/callemall\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Call-Em-All",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/555-call-em-all.jpg",
+            "humanURL": "https:\/\/www.call-em-all.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/callemall-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.call-em-all.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.call-em-all.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/call-em-all"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/call-em-all"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.call-em-all.com\/dev\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@call-em-all.com"
+        },
+        {
+            "type": "Email",
+            "url": "accountsupport@call-em-all.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/CallEmAll"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.call-em-all.com\/"
+        }
+    ]
+}
